@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box;
+  font-family: "Merriweather", normal;
+  line-height: 1.5rem;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+}

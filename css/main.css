@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Merriweather", normal;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -23,6 +23,8 @@ header {
 h1, h2, h3 {
   font-style: italic;
   font-weight: normal;
+  font-size: 1.8rem;
+  margin: 0;
 }
 
 main {
@@ -50,5 +52,6 @@ figure {
 }
 
 figcaption {
-  padding: 1rem;
+  padding-left: 1rem;
+  margin-top: 0;
 }

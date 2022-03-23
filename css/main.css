@@ -17,14 +17,12 @@ img {
 }
 
 header {
-  padding:
+  padding:1.5rem;
 }
 
 h1, h2, h3 {
   font-style: italic;
   font-weight: normal;
-
-
 }
 
 main {
@@ -43,4 +41,14 @@ main {
   align-self: end;
   z-index: 1;
   color: #fff;
+  padding: 1rem;
+}
+
+figure {
+  padding: 0;
+  margin: 0;
+}
+
+figcaption {
+  padding: 1rem;
 }

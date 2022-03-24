@@ -17,7 +17,7 @@ img {
 }
 
 header {
-  padding:1.5rem;
+  padding: 1.5rem;
 }
 
 h1, h2, h3 {
@@ -30,7 +30,7 @@ h1, h2, h3 {
 main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas:"banner banner banner" "col1 col2 col3";
+  grid-template-areas: "banner banner banner" "col1 col2 col3";
   gap: .75rem;
 }
 
